@@ -1,0 +1,20 @@
+{
+  "name": "save-palestine-components",
+  "version": "1.0.0",
+  "description": "components for support palestine on your website",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch scss/main.scss:css/main.css --style compressed",
+    "build": "sass scss/main.scss css/main.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faiznurullah/save-palestine-components.git"
+  },
+  "keywords": [
+    "support",
+    "palestine"
+  ],
+  "author": "Faiz Nurullah",
+  "license": "MIT"
+}
